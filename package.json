@@ -1,0 +1,14 @@
+{
+  "name": "bcbyhitest",
+  "version": "1.0.0",
+  "description": "A Bckend in at chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "Govind",
+  "license": "ISC"
+}
